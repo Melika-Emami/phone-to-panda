@@ -1,0 +1,10 @@
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+mujoco_menagerie/
+data/raw/*
+!data/raw/.gitkeep
+*.MOV
+*.mov
+results/*
+!results/.gitkeep
