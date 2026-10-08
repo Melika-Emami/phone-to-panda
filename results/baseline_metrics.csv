@@ -1,0 +1,2 @@
+status,controller,robot_contacted_block,block_travel_cm,distance_cm,final_x_cm,final_y_cm,final_speed_m_s,on_table,upright,position_success,success
+completed,demo,True,4.514652160419286,0.485350161397219,68.8349071869539,0.001501260348999282,0.0013047556325935365,True,True,True,True

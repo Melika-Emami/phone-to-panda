@@ -1,0 +1,32 @@
+{
+  "mujoco_version": "3.15.0",
+  "menagerie_commit": "0059d4335f8156206f63a35662313385f7ad6d74",
+  "selected_demo_duration_s": 10.2,
+  "block_start_m": [
+    0.6432025502653461,
+    3.469446951953614e-17,
+    0.5212584012111022
+  ],
+  "goal_m": [
+    0.6932025502653462,
+    3.469446951953614e-17,
+    0.5212584012111022
+  ],
+  "hand_travel_m": 0.052000000000000005,
+  "controller_type": "open-loop retargeted replay",
+  "video_sha256": "7e25c1516974f25ae563fbedf88362ac7d632019f1138ba9c34c3b8db106fb4a",
+  "tracking_coverage": 1.0,
+  "lower_pink_hsv": [
+    140,
+    50,
+    50
+  ],
+  "upper_pink_hsv": [
+    179,
+    255,
+    255
+  ],
+  "reported_fps": 30.0,
+  "timing_assumption": "constant frame rate",
+  "success_rule": "contact + xy distance < 1 cm + upright < 15 deg + on table + speed < 0.02 m/s"
+}
